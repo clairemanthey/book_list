@@ -45,7 +45,7 @@ const deleteTask = (id) => {
             tasks={tasks} 
             onDelete={deleteTask} 
 
-            /> : "no tasks"}
+            /> : "Add a book"}
 
     </div>
   );
